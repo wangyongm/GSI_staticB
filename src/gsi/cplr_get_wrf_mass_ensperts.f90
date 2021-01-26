@@ -30,6 +30,8 @@ contains
   !   (currently use placeholder of value 1, since regional 4d application not 
   !   2017-07-30  Hu  - added code to read in multiple-time level ensemble forecast to
   !                     get 4D peerturbations
+  !   2021-01-25  Y. Wang and X. Wang - extended the capability of parallelly reading ensemble
+  !                                     members, POC: xuguang.wang@ou.edu
   !
   !   input argument list:
   !

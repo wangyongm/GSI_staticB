@@ -46,6 +46,8 @@
 !                       configurable m_berror_stats::berror_stats, for the
 !                       filename.  This ensure the consistency, as well as the
 !                       reconfigurability of this variable through the GSI.
+!       2021-01-25 Y. Wang and X. Wang - added codes to read convective-scale
+!                                        static BECs, POC: xuguang.wang@ou.edu 
 !EOP ___________________________________________________________________
 
   character(len=*),parameter :: myname='m_berror_stats_reg'

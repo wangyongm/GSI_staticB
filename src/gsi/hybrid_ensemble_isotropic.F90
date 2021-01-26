@@ -48,6 +48,7 @@ module hybrid_ensemble_isotropic
 !   2015-04-07  carley  - bug fix to allow grd_loc%nlat=grd_loc%nlon
 !   2016-05-13  parrish - remove beta12mult
 !   2018-02-15  wu      - add code for fv3_regional option
+!   2021-01-25  Y. Wang and X. Wang - add code for the adaptive hybridization capability
 !
 ! subroutines included:
 !   sub init_rf_z                         - initialize localization recursive filter (z direction)

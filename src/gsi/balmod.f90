@@ -27,6 +27,8 @@ module balmod
 !   2012-10-09  Gu - add fut2ps to project unbalanced temp to surface pressure in static B modeling
 !   2016-08-24  lippi - Add namelist variable lnobalance to run univariate 
 !                       analysis and init_balmod to initialize the variable. 
+!   2021-01-25  Y. Wang and X. Wang - added codes to assign the balance operators for 
+!                                     convective-scale static BECs, POC: xuguang.wang@ou.edu
 !
 ! subroutines included:
 !   sub create_balance_vars      - create arrays for balance vars

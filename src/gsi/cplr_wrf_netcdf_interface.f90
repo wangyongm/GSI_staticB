@@ -43,6 +43,8 @@ contains
   !   2016-02-14 Johnson, Y. Wang, X. Wang  - add code to read vertical velocity  (W) and
   !                                           Reflectivity (REFL_10CM) for radar
   !                                           DA, POC: xuguang.wang@ou.edu
+  !   2021-01-25 Y. Wang, X. Wang  - add codes to read the geographical masks for the binned static BECs 
+  !                                  and the adaptive hybridization, POC: xuguang.wang@ou.edu 
   !
   !   input argument list:
   !
